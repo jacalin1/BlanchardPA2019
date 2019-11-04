@@ -1119,7 +1119,7 @@ Vb_mean = np.mean(Vb, axis=0)
 # ## The Model
 # 
 # This section presents the model. More details about the model can be found in [Blanchard (2019)](https://www.aeaweb.org/aea/2019conference/program/pdf/14020_paper_etZgfbDr.pdf)  
-# The derivations can be found [here](https://www.aeaweb.org/aea/2019conference/program/pdf/14020_paper_etZgfbDr.pdf).
+# The derivations can be found [here](https://github.com/jacalin1/BlanchardPA2019/blob/master/Acalin_WelfareDebt_Appendix.pdf).
 # 
 # 
 # **Assumptions**
